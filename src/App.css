@@ -1,0 +1,8 @@
+/* App-specific overrides — root fills viewport for app layouts */
+#root {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  min-height: 100vh;
+}
