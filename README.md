@@ -438,43 +438,15 @@ Coordinator->>Dashboard: Final Recommendation
 ```mermaid
 flowchart LR
 
-Dataset
-
-↓
-
-Cleaning
-
-↓
-
-Feature Engineering
-
-↓
-
-ABC Classification
-
-↓
-
-XYZ Classification
-
-↓
-
-Velocity Classification
-
-↓
-
-Demand Forecasting
-
-↓
-
-Inventory Optimization
-
-↓
-
-Recommendation Engine
-
-↓
-
-Dashboard
+A[Dataset] --> B[Cleaning]
+B --> C[Feature Engineering]
+C --> D[ABC Classification]
+D --> E[XYZ Classification]
+E --> F[Velocity Classification]
+F --> G[Demand Forecasting]
+G --> H[Inventory Optimization]
+H --> I[Recommendation Engine]
+I --> J[Dashboard]
 ```
 
 ---
