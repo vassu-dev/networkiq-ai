@@ -747,7 +747,7 @@ See the **LICENSE** file for additional information.
 
 Special thanks to:
 
-- Walmart Sparkathon 2026
+- AI Build Placement Hackathon 2026
 - Kaggle
 - React
 - Vite
@@ -764,7 +764,7 @@ Special thanks to:
 
 ### Transforming Inventory Data into Business Intelligence
 
-**Built with ❤️ for Walmart Sparkathon 2026**
+**Built with ❤️ for AI Build Placement Hackathon 2026**
 
 ---
 
