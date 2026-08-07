@@ -334,39 +334,22 @@ G --> H
 ```mermaid
 flowchart TD
 
-Start([Upload CSV])
+A([Upload CSV])
+B[Validate Dataset]
+C[Parse CSV]
+D[Analyze Inventory]
+E[Generate Business Metrics]
+F[Generate Recommendations]
+G[Display Dashboard]
+H([Business Insights])
 
-↓
-
-Validate Dataset
-
-↓
-
-Clean Data
-
-↓
-
-Extract Inventory Information
-
-↓
-
-Generate Inventory Metrics
-
-↓
-
-Analyze Stock Distribution
-
-↓
-
-Generate Recommendations
-
-↓
-
-Display Dashboard
-
-↓
-
-Business Insights
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
+G --> H
 ```
 
 ---
@@ -376,35 +359,22 @@ Business Insights
 ```mermaid
 flowchart LR
 
-Inventory Dataset
+A[Inventory Dataset]
+B[CSV Parsing]
+C[Data Cleaning]
+D[Inventory Analysis]
+E[Category Analysis]
+F[Business Metrics]
+G[Recommendation Engine]
+H[Dashboard]
 
-↓
-
-CSV Parsing
-
-↓
-
-Data Cleaning
-
-↓
-
-Inventory Analysis
-
-↓
-
-Category Analysis
-
-↓
-
-Business Metrics
-
-↓
-
-Recommendation Engine
-
-↓
-
-Interactive Dashboard
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
+G --> H
 ```
 
 ---
@@ -412,33 +382,20 @@ Interactive Dashboard
 # 🧠 Recommendation Workflow
 
 ```mermaid
-flowchart LR
+flowchart TD
 
-Inventory Data
+A[Inventory Data]
+B[Stock Analysis]
+C[Inventory Health]
+D[Business Rules]
+E[Recommendation Engine]
+F[Business Insights]
 
-↓
-
-Stock Analysis
-
-↓
-
-Inventory Health Check
-
-↓
-
-Business Rules
-
-↓
-
-Recommendation Engine
-
-↓
-
-Insights
-
-↓
-
-Dashboard
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
 ```
 
 ---
