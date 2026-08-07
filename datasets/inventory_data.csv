@@ -1,0 +1,31 @@
+Store,Product,Category,CurrentStock,Demand,Price,HoldingCost,TransferCost,Location
+Hyderabad,Rice,Grocery,40,180,65,2.5,350,Hyderabad
+Vijayawada,Rice,Grocery,250,90,65,2.5,350,Vijayawada
+Visakhapatnam,Rice,Grocery,180,120,65,2.5,350,Visakhapatnam
+Hyderabad,Sugar,Grocery,30,140,48,2.0,300,Hyderabad
+Vijayawada,Sugar,Grocery,220,70,48,2.0,300,Vijayawada
+Visakhapatnam,Sugar,Grocery,110,90,48,2.0,300,Visakhapatnam
+Hyderabad,Wheat Flour,Grocery,55,170,55,2.2,280,Hyderabad
+Vijayawada,Wheat Flour,Grocery,190,80,55,2.2,280,Vijayawada
+Bangalore,Cooking Oil,Grocery,75,210,165,4.5,500,Bangalore
+Chennai,Cooking Oil,Grocery,260,95,165,4.5,500,Chennai
+Mumbai,Tea,Grocery,45,160,180,3.0,450,Mumbai
+Pune,Tea,Grocery,190,75,180,3.0,450,Pune
+Delhi,Coffee,Beverages,60,220,280,5.5,650,Delhi
+Noida,Coffee,Beverages,260,90,280,5.5,650,Noida
+Hyderabad,Milk,Dairy,70,240,32,1.8,220,Hyderabad
+Vijayawada,Milk,Dairy,280,110,32,1.8,220,Vijayawada
+Chennai,Butter,Dairy,35,120,58,2.1,260,Chennai
+Bangalore,Butter,Dairy,170,55,58,2.1,260,Bangalore
+Mumbai,Eggs,Dairy,85,200,6,0.5,180,Mumbai
+Pune,Eggs,Dairy,260,95,6,0.5,180,Pune
+Delhi,Soap,Personal Care,90,260,38,1.0,200,Delhi
+Noida,Soap,Personal Care,300,100,38,1.0,200,Noida
+Hyderabad,Shampoo,Personal Care,40,150,210,3.2,420,Hyderabad
+Vijayawada,Shampoo,Personal Care,180,60,210,3.2,420,Vijayawada
+Bangalore,Toothpaste,Personal Care,55,175,95,1.7,250,Bangalore
+Chennai,Toothpaste,Personal Care,230,85,95,1.7,250,Chennai
+Mumbai,Biscuits,Snacks,65,210,25,0.8,150,Mumbai
+Pune,Biscuits,Snacks,280,90,25,0.8,150,Pune
+Delhi,Chips,Snacks,45,180,20,0.6,140,Delhi
+Noida,Chips,Snacks,240,70,20,0.6,140,Noida
