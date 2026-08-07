@@ -1,378 +1,318 @@
 <div align="center">
 
+<img src="docs/assets/banner.png" alt="NetworkIQ AI Banner" width="100%">
+
 # 🚀 NetworkIQ AI
 
-### **Enterprise Multi-Agent Inventory Intelligence Platform**
+### Enterprise Inventory Intelligence Platform
 
-#### *Intelligent Inventory Placement • Demand Forecasting • Transfer Optimization • Explainable AI*
+#### *AI-Powered Inventory Analytics • Smart Recommendations • Business Intelligence*
 
 <p align="center">
-  
+
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0-success?style=for-the-badge)
 
-![Version](https://img.shields.io/badge/Version-v1.0-blue?style=for-the-badge)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
-![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-orange?style=for-the-badge)
-
-![LightGBM](https://img.shields.io/badge/LightGBM-ML-green?style=for-the-badge)
-
-![OR-Tools](https://img.shields.io/badge/Google-OR--Tools-red?style=for-the-badge)
+![AI Ready](https://img.shields.io/badge/AI-Ready-orange?style=for-the-badge)
 
 </p>
 
+---
 
-### 💡 Predict Smarter. Place Better. Deliver Faster.
+### 🏆 Walmart Sparkathon 2026
+
+### **Track 4 — NetworkIQ**
+
+### Inventory Optimization & Placement Across the Fulfilment Network
+
+---
+
+### 💡 Analyze Smarter • Optimize Faster • Deliver Better
+
+---
+
+<p align="center">
+
+<a href="#overview">Overview</a> •
+<a href="#features">Features</a> •
+<a href="#architecture">Architecture</a> •
+<a href="#installation">Installation</a> •
+<a href="#datasets">Datasets</a> •
+<a href="#contributors">Team</a>
+
+</p>
+
+</div>
+---
+
+# 📌 Overview
+
+NetworkIQ AI is an intelligent inventory analytics platform designed to help retailers understand inventory distribution, identify operational inefficiencies, and support data-driven inventory decisions.
+
+The application transforms raw inventory datasets into actionable business insights through interactive dashboards, inventory analytics, recommendation workflows, and visual reports.
+
+The current MVP focuses on helping planners explore inventory patterns, detect shortages and excess stock, and evaluate inventory health using uploaded CSV datasets.
+
+---
+
+# 🌍 Why NetworkIQ?
+
+Retail organizations often struggle with inventory visibility across multiple locations.
+
+Common challenges include:
+
+- Overstocked warehouses
+- Stock shortages
+- Slow-moving inventory
+- High inventory carrying costs
+- Delayed decision making
+
+NetworkIQ AI centralizes inventory analysis into a modern dashboard that enables planners to quickly understand inventory performance and make informed decisions.
+
+---
+
+# 🎯 Objectives
+
+- Improve inventory visibility
+- Support inventory planning
+- Analyze inventory distribution
+- Simplify inventory reporting
+- Enable intelligent recommendations
+- Deliver an intuitive dashboard experience
+---
+
+<a id="features"></a>
+
+# ✨ Core Features
+
+<div align="center">
+
+| 📊 Analytics | 🤖 Smart Insights | 📈 Visualization |
+|:------------:|:----------------:|:----------------:|
+| Real-time Inventory Analysis | Intelligent Inventory Recommendations | Interactive Business Dashboard |
 
 </div>
 
 ---
 
-# 📑 Table of Contents
+## 📂 Inventory Dataset Management
 
-- Executive Summary
-- Problem Statement
-- Why Current Systems Fail
-- Our Solution
-- Key Innovations
-- System Architecture
-- Multi-Agent AI Workflow
-- Technology Stack
-- Features
-- Repository Structure
-- Installation
-- Contributors
-- License
+Upload inventory datasets in CSV format and instantly transform raw inventory records into meaningful business insights.
+
+### Supported
+
+- Product Inventory
+- Stock Levels
+- Categories
+- Warehouse Data
+- Supplier Information
+- Pricing Information
+- Inventory Metrics
 
 ---
 
-# 🌍 Executive Summary
+## 📊 Executive Dashboard
 
-Modern retail supply chains are becoming increasingly complex.
+A centralized dashboard designed for inventory planners and business stakeholders.
 
-Large retailers manage inventory across multiple locations while trying to satisfy unpredictable customer demand.
+### Dashboard includes
 
-Unfortunately,
-
-inventory often exists **inside the network** but **not at the location where customers actually need it**.
-
-This results in
-
-- Lost Sales
-- Poor Service Levels
-- Excess Inventory
-- Expensive Stock Transfers
-- Low Inventory Utilization
-
-NetworkIQ AI addresses these challenges by introducing an **Enterprise Multi-Agent AI Platform** that continuously analyzes historical sales, forecasts future demand, optimizes inventory placement, recommends stock transfers, and explains every decision before execution.
-
-Unlike traditional inventory management systems, NetworkIQ AI combines
-
-- Artificial Intelligence
-- Machine Learning
-- Operations Research
-- Explainable AI
-- Human-in-the-loop Decision Making
-
-to deliver intelligent inventory optimization at the network level.
+- Inventory Overview
+- Product Distribution
+- Category Analysis
+- Inventory KPIs
+- Business Metrics
+- Interactive Charts
+- Inventory Health Indicators
 
 ---
 
-# 🎯 Problem Statement
+## 📈 Inventory Analytics
 
-Modern retail fulfilment networks often suffer from fragmented inventory planning.
+Automatically analyzes uploaded inventory datasets to identify trends and opportunities.
 
-Individual warehouses, stores, and planners optimize inventory locally without considering the entire network.
+Highlights include
 
-Consequently,
-
-- High-demand locations experience stockouts.
-- Slow-moving inventory occupies premium storage locations.
-- Inventory transfers are reactive instead of proactive.
-- Transfer costs increase unnecessarily.
-- Customer delivery promises are missed.
-
-The objective of NetworkIQ AI is to provide an intelligent, explainable, and scalable solution that recommends:
-
-- Optimal inventory allocation
-- Smart stock transfers
-- Cost-effective replenishment
-- Capacity-aware placement
-- Planner-assisted execution
-
-while balancing
-
-- Demand
-- Capacity
-- Holding Cost
-- Transfer Cost
-- Service Level
+- Total Inventory
+- Product Categories
+- Stock Distribution
+- Warehouse Summary
+- Inventory Value
+- High Stock Products
+- Low Stock Products
 
 ---
 
-# ❌ Why Existing Systems Fail
+## 🔍 Product Explorer
 
-Traditional inventory planning systems rely on
+Quickly search and inspect products across the uploaded inventory dataset.
 
-- Static reorder rules
-- Weekly planning reports
-- Manual decision making
-- Spreadsheet-based optimization
-- Independent regional planning
+Features include
 
-These approaches lack
-
-❌ Network-wide visibility
-
-❌ Explainable recommendations
-
-❌ Dynamic demand forecasting
-
-❌ Intelligent transfer planning
-
-❌ Human-AI collaboration
+- Product Search
+- Category Filtering
+- Stock Status
+- Product Details
+- Inventory Statistics
 
 ---
 
-# 💡 Our Solution
+## 📦 Inventory Intelligence
 
-NetworkIQ AI introduces a **Multi-Agent Inventory Intelligence Platform** where specialized AI agents collaboratively optimize inventory across the retail network.
+Generate actionable insights from inventory data.
 
-Instead of relying on a single decision engine,
+The platform assists planners in identifying
 
-multiple AI agents independently analyze
-
-- demand,
-- inventory,
-- transfer feasibility,
-- capacity,
-- cost,
-- and business constraints
-
-before negotiating towards a globally optimized inventory strategy.
-
-Every recommendation is
-
-✔ Explainable
-
-✔ Auditable
-
-✔ Capacity-aware
-
-✔ Cost-efficient
-
-✔ Human-approvable
-
-which aligns directly with the hackathon problem statement.
+- Overstocked Products
+- Understocked Products
+- Slow-moving Inventory
+- Fast-moving Inventory
+- Inventory Imbalance
+- Distribution Trends
 
 ---
 
-# ✨ Key Innovations
+## 📉 Business Intelligence
 
-### 🤖 Multi-Agent AI Architecture
+Transform inventory records into decision-ready analytics.
 
-Instead of one monolithic AI model,
+Business metrics include
 
-NetworkIQ AI deploys specialized collaborating agents.
-
----
-
-### 📈 AI-Powered Demand Forecasting
-
-Predicts future SKU demand using historical sales patterns.
-
----
-
-### 📦 Intelligent Inventory Allocation
-
-Determines the optimal inventory level for each location.
+- Inventory Health
+- Product Availability
+- Warehouse Distribution
+- Category Performance
+- Stock Utilization
+- Inventory Coverage
 
 ---
 
-### 🚚 Smart Transfer Recommendations
+## 🚀 Modern User Experience
 
-Suggests stock movement only when the expected business value exceeds transfer cost.
+Built using modern web technologies for an intuitive and responsive experience.
 
----
+✔ Responsive Design
 
-### 💰 Cost Optimization
+✔ Fast Navigation
 
-Balances
+✔ Interactive Components
 
-- Holding Cost
-- Transfer Cost
-- Lost Sales
-- Service Level
+✔ Modern Dashboard
 
-to maximize business value.
+✔ Clean User Interface
 
----
+✔ Mobile Friendly
 
-### 🧠 Explainable AI
-
-Every recommendation includes
-
-- Demand Basis
-- Cost Trade-off
-- Expected Savings
-- Confidence Score
-- Business Justification
-
-ensuring complete transparency for planners.
+✔ Dark Theme Ready
 
 ---
 
-### 👨‍💼 Human-in-the-Loop
+# 📸 Dashboard Preview
 
-High-value transfer plans require planner approval before execution, ensuring enterprise-grade governance.
+> Dashboard screenshots will be added after implementation.
 
----
+<div align="center">
 
-# 🌟 Why NetworkIQ AI?
+| Executive Dashboard |
+|---------------------|
+| ![](docs/screenshots/dashboard.png) |
 
-Unlike conventional inventory systems,
+| Inventory Analytics | Product Explorer |
+|--------------------|------------------|
+| ![](docs/screenshots/analytics.png) | ![](docs/screenshots/products.png) |
 
-NetworkIQ AI combines
+| Recommendations | Reports |
+|----------------|---------|
+| ![](docs/screenshots/recommendations.png) | ![](docs/screenshots/reports.png) |
 
-- Machine Learning
-- Multi-Agent Systems
-- Optimization Algorithms
-- Explainable AI
-- Human Decision Support
-
-into a single enterprise platform capable of intelligent inventory planning across an entire retail network.
-
----
-
-## 📊 Project Status
-
-| Module | Status |
-|---------|--------|
-| Backend | 🚧 In Progress |
-| AI Agents | 🚧 In Progress |
-| Demand Forecasting | 🚧 In Progress |
-| Inventory Optimization | 🚧 In Progress |
-| Frontend Dashboard | 🚧 In Progress |
-| Documentation | 🚧 In Progress |
+</div>
 
 ---
 
-> **"Turning distributed inventory into intelligent decisions through collaborative AI."**
----
+# 💼 Business Value
 
-# 🏗️ Enterprise System Architecture
+NetworkIQ AI enables organizations to transform raw inventory data into meaningful operational intelligence.
 
-```mermaid
-flowchart TB
+### Benefits
 
-    User["👨‍💼 Planner / Business User"]
+📦 Improved Inventory Visibility
 
-    Dashboard["📊 Next.js Dashboard"]
+📊 Better Business Insights
 
-    API["⚡ FastAPI API Gateway"]
+📈 Faster Decision Making
 
-    Coordinator["🧠 LangGraph Coordinator"]
+📉 Reduced Inventory Imbalance
 
-    Demand["📈 Demand Forecast Agent"]
+💰 Improved Inventory Utilization
 
-    Inventory["📦 Inventory Allocation Agent"]
+🚀 Enhanced Operational Efficiency
 
-    Transfer["🚚 Transfer Recommendation Agent"]
+📋 Better Inventory Reporting
 
-    Cost["💰 Cost Optimization Agent"]
-
-    Capacity["🏭 Capacity Validation Agent"]
-
-    Risk["⚠️ Risk Analysis Agent"]
-
-    Planner["👨‍💼 Human Approval Agent"]
-
-    Explain["📄 Explainability Engine"]
-
-    Optimizer["📊 OR-Tools Optimizer"]
-
-    Database["🗄️ PostgreSQL"]
-
-    Dataset["📁 Kaggle Datasets"]
-
-    User --> Dashboard
-
-    Dashboard --> API
-
-    API --> Coordinator
-
-    Coordinator --> Demand
-
-    Coordinator --> Inventory
-
-    Coordinator --> Transfer
-
-    Coordinator --> Cost
-
-    Coordinator --> Capacity
-
-    Coordinator --> Risk
-
-    Demand --> Optimizer
-
-    Inventory --> Optimizer
-
-    Transfer --> Optimizer
-
-    Cost --> Optimizer
-
-    Capacity --> Optimizer
-
-    Risk --> Optimizer
-
-    Optimizer --> Explain
-
-    Explain --> Planner
-
-    Planner --> API
-
-    API --> Dashboard
-
-    Dataset --> Database
-
-    Database --> Coordinator
-```
+🤝 Improved Planner Productivity
 
 ---
 
-# 🤖 Multi-Agent Workflow
+# 🌟 Why Choose NetworkIQ AI?
+
+Unlike traditional spreadsheet-based inventory management,
+
+NetworkIQ AI provides
+
+- Modern Interactive Dashboard
+- Automated Inventory Analytics
+- Intelligent Recommendation Engine
+- Rich Data Visualization
+- Scalable Architecture
+- Business-focused Insights
+- Enterprise-grade User Experience
+
+---
+
+<div align="center">
+
+## 🎯 Designed for Smarter Inventory Decisions
+
+**Analyze • Visualize • Optimize**
+
+</div>
+
+---
+---
+
+<a id="architecture"></a>
+
+# 🏗️ System Architecture
+
+NetworkIQ AI follows a modular architecture that transforms raw inventory datasets into actionable business insights through a streamlined analytics workflow.
 
 ```mermaid
 flowchart LR
 
-Start([Load Dataset])
+A["📂 Inventory CSV"]
 
-A[Demand Forecast Agent]
+B["📥 Data Import"]
 
-B[Inventory Agent]
+C["🧹 Data Validation"]
 
-C[Transfer Agent]
+D["📊 Inventory Analysis"]
 
-D[Cost Agent]
+E["📈 Analytics Engine"]
 
-E[Capacity Agent]
+F["🤖 Recommendation Engine"]
 
-F[Risk Agent]
+G["📉 Business Dashboard"]
 
-G[Explainability Agent]
-
-H[Planner Agent]
-
-I([Final Recommendation])
-
-Start --> A
+H["👨‍💼 Business User"]
 
 A --> B
 
@@ -387,83 +327,169 @@ E --> F
 F --> G
 
 G --> H
-
-H --> I
 ```
 
 ---
 
-# 🔄 AI Decision Pipeline
+# 🔄 Application Workflow
 
 ```mermaid
-sequenceDiagram
+flowchart TD
 
-participant User
+Start([Upload CSV])
 
-participant Dashboard
+↓
 
-participant API
+Validate Dataset
 
-participant Coordinator
+↓
 
-participant AI
+Clean Data
 
-participant Optimizer
+↓
 
-participant Planner
+Extract Inventory Information
 
-User->>Dashboard: Upload Dataset
+↓
 
-Dashboard->>API: Request Analysis
+Generate Inventory Metrics
 
-API->>Coordinator: Start AI Workflow
+↓
 
-Coordinator->>AI: Forecast Demand
+Analyze Stock Distribution
 
-AI->>Optimizer: Optimize Inventory
+↓
 
-Optimizer->>Coordinator: Best Transfer Plan
+Generate Recommendations
 
-Coordinator->>Planner: Explain Recommendation
+↓
 
-Planner-->>Coordinator: Approve / Reject
+Display Dashboard
 
-Coordinator->>Dashboard: Final Recommendation
+↓
+
+Business Insights
 ```
 
 ---
 
-# 📈 Machine Learning Pipeline
+# 📊 Data Processing Pipeline
 
 ```mermaid
 flowchart LR
 
-A[Dataset] --> B[Cleaning]
-B --> C[Feature Engineering]
-C --> D[ABC Classification]
-D --> E[XYZ Classification]
-E --> F[Velocity Classification]
-F --> G[Demand Forecasting]
-G --> H[Inventory Optimization]
-H --> I[Recommendation Engine]
-I --> J[Dashboard]
+Inventory Dataset
+
+↓
+
+CSV Parsing
+
+↓
+
+Data Cleaning
+
+↓
+
+Inventory Analysis
+
+↓
+
+Category Analysis
+
+↓
+
+Business Metrics
+
+↓
+
+Recommendation Engine
+
+↓
+
+Interactive Dashboard
 ```
 
 ---
 
-# 🧠 AI Agent Responsibilities
+# 🧠 Recommendation Workflow
 
-| AI Agent | Responsibility |
-|-----------|---------------|
-| 🎯 Coordinator Agent | Controls complete workflow |
-| 📈 Demand Forecast Agent | Predicts future SKU demand |
-| 📦 Inventory Allocation Agent | Determines inventory allocation |
-| 🚚 Transfer Agent | Generates stock transfer recommendations |
-| 💰 Cost Agent | Calculates profitability & savings |
-| 🏭 Capacity Agent | Validates warehouse constraints |
-| ⚠️ Risk Agent | Detects stockout & overstock risks |
-| 📄 Explainability Agent | Generates business reasoning |
-| 👨‍💼 Planner Agent | Human approval workflow |
+```mermaid
+flowchart LR
+
+Inventory Data
+
+↓
+
+Stock Analysis
+
+↓
+
+Inventory Health Check
+
+↓
+
+Business Rules
+
+↓
+
+Recommendation Engine
+
+↓
+
+Insights
+
+↓
+
+Dashboard
+```
+
+---
+
+# 📂 Repository Structure
+
+```text
+networkiq-ai/
+
+│
+
+├── .github/
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── context/
+│   ├── hooks/
+│   ├── lib/
+│   ├── pages/
+│   ├── services/
+│   ├── styles/
+│   ├── types/
+│   ├── App.tsx
+│   └── main.tsx
+│
+├── public/
+│
+├── datasets/
+│   ├── inventory_data.csv
+│   └── inventory_data_large.csv
+│
+├── docs/
+│   ├── architecture.md
+│   ├── business-impact.md
+│   ├── diagrams/
+│   └── screenshots/
+│
+├── presentation/
+│
+├── tests/
+│
+├── package.json
+├── vite.config.ts
+├── tailwind.config.js
+├── tsconfig.json
+├── README.md
+└── LICENSE
+```
 
 ---
 
@@ -471,427 +497,322 @@ I --> J[Dashboard]
 
 | Layer | Technology |
 |---------|------------|
-| Frontend | Next.js 15 |
-| UI | Tailwind CSS + shadcn/ui |
+| Frontend | React 18 |
+| Language | TypeScript |
+| Build Tool | Vite |
+| Styling | Tailwind CSS |
+| UI Components | shadcn/ui |
 | Charts | Recharts |
-| Backend | FastAPI |
-| Database | PostgreSQL |
-| ORM | SQLAlchemy |
-| AI Framework | LangGraph |
-| Forecasting | LightGBM |
-| Optimization | Google OR-Tools |
-| Data Processing | Pandas |
-| ML | Scikit-Learn |
-| Deployment | Docker |
-
----
-
-# 📊 Data Pipeline
-
-```mermaid
-flowchart TB
-
-RawData["📁 Indian Store Dataset"]
-
-Supply["📁 Supply Chain Dataset"]
-
-ETL["⚙️ ETL Pipeline"]
-
-Features["🧠 Feature Engineering"]
-
-Forecast["📈 Demand Forecast"]
-
-Optimize["📊 Inventory Optimization"]
-
-Agents["🤖 AI Agents"]
-
-Dashboard["📊 Dashboard"]
-
-RawData --> ETL
-
-Supply --> ETL
-
-ETL --> Features
-
-Features --> Forecast
-
-Forecast --> Optimize
-
-Optimize --> Agents
-
-Agents --> Dashboard
-```
-
----
-
-# 📦 Repository Structure
-
-```text
-networkiq-ai/
-
-├── frontend/
-│
-├── backend/
-│
-├── ai/
-│   ├── agents/
-│   ├── forecasting/
-│   ├── optimization/
-│   ├── explainability/
-│   ├── orchestrator/
-│   └── rag/
-│
-├── datasets/
-│
-├── docs/
-│   ├── architecture/
-│   ├── diagrams/
-│   ├── screenshots/
-│   └── api/
-│
-├── docker/
-│
-├── presentation/
-│
-├── tests/
-│
-├── scripts/
-│
-└── README.md
-```
-
----
-
-# 🗄️ Database Design
-
-```mermaid
-erDiagram
-
-PRODUCT {
-
-int id
-
-string sku
-
-string category
-
-string velocity
-
-}
-
-INVENTORY {
-
-int id
-
-int product_id
-
-string location
-
-int quantity
-
-float holding_cost
-
-}
-
-FORECAST {
-
-int id
-
-int product_id
-
-date forecast_date
-
-int demand
-
-}
-
-TRANSFER {
-
-int id
-
-int source
-
-int destination
-
-int quantity
-
-float transfer_cost
-
-}
-
-APPROVAL {
-
-int id
-
-string planner
-
-string status
-
-datetime approved_at
-
-}
-
-PRODUCT ||--o{ INVENTORY : contains
-
-PRODUCT ||--o{ FORECAST : predicts
-
-INVENTORY ||--o{ TRANSFER : transfers
-
-TRANSFER ||--|| APPROVAL : approval
-```
-
----
-
-# 🔒 Enterprise Design Principles
-
-- Multi-Agent Architecture
-- Explainable AI
-- Human-in-the-Loop
-- Cost-Aware Decisions
-- Capacity-Constrained Optimization
-- Modular Microservice Design
-- Scalable AI Workflow
-- Production-Ready REST APIs
----
-
-# 📸 Dashboard Preview
-
-> **Note:** Screenshots will be updated as development progresses.
-
-| Executive Dashboard | Demand Forecast |
-|--------------------|-----------------|
-| ![](docs/screenshots/dashboard.png) | ![](docs/screenshots/forecast.png) |
-
-| Transfer Recommendations | Inventory Heatmap |
-|--------------------------|-------------------|
-| ![](docs/screenshots/transfer.png) | ![](docs/screenshots/heatmap.png) |
-
----
-
-# 🎥 Demo
-
-A complete walkthrough of the system is available below.
-
-📹 **Demo Video**
-
-```
-(To be added before final submission)
-```
-
----
-
-# 📊 Key Features
-
-## 📈 AI Demand Forecasting
-
-Predicts SKU-level demand using historical sales patterns and machine learning.
-
----
-
-## 📦 Intelligent Inventory Allocation
-
-Optimizes inventory placement across multiple fulfillment locations.
-
----
-
-## 🚚 Smart Transfer Recommendation
-
-Suggests transfers only when
-
-- Business value > Transfer cost
-- Capacity constraints are satisfied
-- Inventory remains balanced
-
----
-
-## 🧠 Explainable AI
-
-Every recommendation contains
-
-- Business reasoning
-- Demand basis
-- Expected savings
-- Cost trade-off
-- Confidence score
-
----
-
-## 👨‍💼 Human Approval Workflow
-
-Large transfer plans require manual planner approval before execution.
-
----
-
-## 📊 Executive Dashboard
-
-Interactive dashboard showing
-
-- Inventory Status
-- Demand Forecast
-- Transfer Suggestions
-- KPI Analytics
-- Approval Queue
-- AI Insights
-
----
-
-# 🚀 Getting Started
-
-## Clone Repository
-
-```bash
-git clone https://github.com/<username>/networkiq-ai.git
-cd networkiq-ai
-```
-
----
-
-## Backend Setup
-
-```bash
-cd backend
-
-python -m venv venv
-
-source venv/bin/activate
-
-pip install -r requirements.txt
-
-uvicorn main:app --reload
-```
-
----
-
-## Frontend Setup
-
-```bash
-cd frontend
-
-npm install
-
-npm run dev
-```
-
----
-
-## Docker
-
-```bash
-docker compose up --build
-```
-
----
-
-# 🌐 API Endpoints
-
-| Method | Endpoint | Description |
-|----------|----------|-------------|
-| POST | /forecast | Generate demand forecast |
-| POST | /optimize | Optimize inventory placement |
-| POST | /transfer | Generate transfer recommendation |
-| GET | /dashboard | Dashboard KPIs |
-| GET | /inventory | Inventory status |
-| POST | /simulate | Run what-if simulation |
-
----
-
-# 📈 Business Impact
-
-| KPI | Goal |
-|------|------|
-| Product Availability | ↑ Increase |
-| Holding Cost | ↓ Reduce |
-| Transfer Cost | ↓ Reduce |
-| Inventory Utilization | ↑ Improve |
-| Service Level | ↑ Improve |
-| Stockouts | ↓ Reduce |
-
----
-
-# 🛣️ Development Roadmap
-
-- [x] Project Architecture
-- [x] Data Pipeline
-- [x] Feature Engineering
-- [x] AI Agent Design
-- [ ] Demand Forecasting
-- [ ] Inventory Optimization
-- [ ] Transfer Recommendation
-- [ ] Dashboard Integration
-- [ ] Planner Approval Workflow
-- [ ] Deployment
-
----
-
-# 📂 Project Modules
-
-| Module | Status |
-|---------|--------|
-| Frontend | 🚧 |
-| Backend | 🚧 |
-| AI Engine | 🚧 |
-| Forecasting | 🚧 |
-| Optimization | 🚧 |
-| Documentation | 🚧 |
-
----
-
-# 🔐 Security
-
-- JWT Authentication
-- Input Validation
-- SQL Injection Protection
-- Environment Variables
-- Role-Based Access (Roadmap)
+| Icons | Lucide React |
+| State Management | React Context API |
+| CSV Processing | PapaParse |
+| Notifications | Sonner |
+| Version Control | Git & GitHub |
 
 ---
 
 # 📚 Datasets
 
-### Indian Store Data
-Used for sales, demand patterns, customer behavior, and product performance.
+The application is powered by two inventory datasets used for analytics and recommendation generation.
 
-### High-Dimensional Supply Chain Inventory Dataset
-Used for inventory levels, lead times, warehouse allocation, supplier information, and transfer optimization.
+### 📄 inventory_data.csv
 
----
-
-# 🤝 Contributors
-
-| Name | Role |
-|------|------|
-| Team Lead | AI & Architecture |
-| Member 2 | Backend Development |
-| Member 3 | Frontend Development |
+Primary dataset containing inventory records for products, categories, stock levels, pricing, and warehouse information.
 
 ---
 
-# 🙏 Acknowledgements
+### 📄 inventory_data_large.csv
 
-- Walmart Sparkathon 2026
-- Kaggle Datasets
-- Google OR-Tools
-- LangGraph
-- LightGBM
-- FastAPI
-- Next.js
+Extended dataset used for large-scale testing, analytics, and performance evaluation.
 
 ---
 
-# 📜 License
+# 📈 Analytics Modules
 
-This project is developed exclusively for **Walmart Sparkathon 2026**.
+### 📦 Inventory Overview
 
-For educational and hackathon purposes only.
+Comprehensive summary of available inventory across uploaded datasets.
+
+---
+
+### 📊 Category Analysis
+
+Visual breakdown of products grouped by category.
+
+---
+
+### 📈 Inventory Trends
+
+Identify stock distribution and inventory patterns.
+
+---
+
+### 📉 Inventory Health
+
+Evaluate inventory quality based on stock availability and distribution.
+
+---
+
+### 🔍 Product Explorer
+
+Search and inspect individual inventory records with detailed information.
+
+---
+
+### 💡 Recommendation Engine
+
+Generate business-oriented recommendations based on inventory analysis.
 
 ---
 
 <div align="center">
 
-## ⭐ If you like this project, consider giving it a star!
+## 🏆 Enterprise-Ready Modular Architecture
 
-**Built with ❤️ using AI, Machine Learning, and Operations Research**
+**Built for scalability, maintainability, and business intelligence.**
 
-**NetworkIQ AI — Predict Smarter. Place Better. Deliver Faster.**
+</div>
+
+---
+---
+
+<a id="installation"></a>
+
+# 🚀 Getting Started
+
+Follow these steps to run **NetworkIQ AI** locally.
+
+## 📋 Prerequisites
+
+Before running the project, ensure the following are installed:
+
+- Node.js (v18 or later)
+- npm
+- Git
+
+---
+
+## 📥 Clone the Repository
+
+```bash
+git clone https://github.com/vassu-dev/networkiq-ai.git
+
+cd networkiq-ai
+```
+
+---
+
+## 📦 Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
+## ▶️ Start Development Server
+
+```bash
+npm run dev
+```
+
+The application will be available at
+
+```
+http://localhost:5173
+```
+
+---
+
+## 🏗 Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## 🔍 Preview Production Build
+
+```bash
+npm run preview
+```
+
+---
+
+<a id="datasets"></a>
+
+# 📚 Datasets
+
+NetworkIQ AI is built using two inventory datasets.
+
+| Dataset | Description |
+|----------|-------------|
+| inventory_data.csv | Core inventory dataset used for analytics |
+| inventory_data_large.csv | Extended inventory dataset used for testing and performance evaluation |
+
+These datasets drive inventory analysis, business metrics, and recommendation workflows.
+
+---
+
+# 📸 Application Preview
+
+> Screenshots will be added as development progresses.
+
+## Executive Dashboard
+
+![](docs/screenshots/dashboard.png)
+
+---
+
+## Inventory Analytics
+
+![](docs/screenshots/analytics.png)
+
+---
+
+## Product Explorer
+
+![](docs/screenshots/products.png)
+
+---
+
+## Recommendations
+
+![](docs/screenshots/recommendations.png)
+
+---
+
+## Reports
+
+![](docs/screenshots/reports.png)
+
+---
+
+# 🎥 Demo
+
+A complete walkthrough demonstrating the workflow, analytics, and recommendation engine will be included before the final submission.
+
+```
+Demo Video (Coming Soon)
+```
+
+---
+
+# 📈 Business Impact
+
+NetworkIQ AI enables inventory planners and business teams to make informed decisions by transforming inventory records into actionable insights.
+
+### Expected Benefits
+
+- 📦 Better Inventory Visibility
+- 📊 Improved Inventory Reporting
+- 📈 Faster Business Decisions
+- 💰 Improved Inventory Utilization
+- 📉 Reduced Overstock and Understock Risks
+- 🚀 Enhanced Operational Efficiency
+
+---
+
+# 🛣 Roadmap
+
+## Version 1.0
+
+- [x] Modern Dashboard
+- [x] CSV Upload
+- [x] Inventory Analytics
+- [x] Product Search
+- [x] Business Metrics
+- [x] Recommendation Workflow
+
+---
+
+## Version 2.0
+
+- [ ] AI Recommendation Engine
+- [ ] Demand Forecasting
+- [ ] Inventory Optimization
+- [ ] Smart Inventory Alerts
+- [ ] Advanced Reports
+
+---
+
+## Version 3.0
+
+- [ ] Multi-Agent AI
+- [ ] ERP Integration
+- [ ] Cloud Deployment
+- [ ] Real-Time Inventory Monitoring
+- [ ] Predictive Business Intelligence
+
+---
+
+<a id="contributors"></a>
+
+# 👥 Team
+
+| Member | Responsibility |
+|---------|----------------|
+| Team Lead | Project Architecture & AI |
+| Member 2 | Frontend Development |
+| Member 3 | Data Analytics & Documentation |
+
+---
+
+# 📂 Project Status
+
+> 🚧 Active Development
+
+Current focus:
+
+- Dashboard Enhancement
+- Inventory Intelligence
+- Recommendation System
+- Documentation
+
+---
+
+# 🤝 Contributing
+
+Contributions, suggestions, and improvements are welcome.
+
+Please follow the project's contribution guidelines before submitting pull requests.
+
+---
+
+# 📜 License
+
+This project is released under the **MIT License**.
+
+See the **LICENSE** file for additional information.
+
+---
+
+# 🙏 Acknowledgements
+
+Special thanks to:
+
+- Walmart Sparkathon 2026
+- Kaggle
+- React
+- Vite
+- Tailwind CSS
+- shadcn/ui
+- Recharts
+- Open Source Community
+
+---
+
+<div align="center">
+
+# ⭐ NetworkIQ AI
+
+### Transforming Inventory Data into Business Intelligence
+
+**Built with ❤️ for Walmart Sparkathon 2026**
+
+---
+
+### If you found this project useful, consider giving it a ⭐ on GitHub.
 
 </div>
