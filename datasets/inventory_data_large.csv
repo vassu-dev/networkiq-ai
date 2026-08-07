@@ -1,0 +1,221 @@
+Store,Product,Category,CurrentStock,Demand,Price,HoldingCost,TransferCost,Location
+Patna,Cooking Oil,Grocery,55,202,160.43,4.5,500,Patna
+Raipur,Cooking Oil,Grocery,159,101,166.49,4.5,500,Raipur
+Vijayawada,Rice,Grocery,47,199,65.03,2.5,350,Vijayawada
+Hyderabad,Soap,Personal Care,89,247,36.94,1.0,200,Hyderabad
+Bhopal,Soft Drink,Beverages,40,248,44.28,1.5,220,Bhopal
+Chennai,Pulses,Grocery,206,61,118.56,2.8,320,Chennai
+Jaipur,Detergent,Household,247,55,132.99,2.9,310,Jaipur
+Indore,Cooking Oil,Grocery,200,120,161.59,4.5,500,Indore
+Patna,Toothpaste,Personal Care,229,58,90.69,1.7,250,Patna
+Delhi,Namkeen,Snacks,200,79,62.2,1.2,190,Delhi
+Lucknow,Soft Drink,Beverages,273,70,44.42,1.5,220,Lucknow
+Pune,Deodorant,Personal Care,198,71,150.51,2.5,340,Pune
+Delhi,Salt,Grocery,277,84,23.08,0.7,150,Delhi
+Patna,Biscuits,Snacks,118,177,24.56,0.8,150,Patna
+Vijayawada,Coffee,Beverages,60,242,273.5,5.5,650,Vijayawada
+Pune,Toilet Cleaner,Household,130,117,86.32,1.6,220,Pune
+Lucknow,Dish Wash,Household,148,108,63.47,1.4,200,Lucknow
+Delhi,Chips,Snacks,158,123,20.49,0.6,140,Delhi
+Chandigarh,Dish Wash,Household,141,136,63.18,1.4,200,Chandigarh
+Chennai,Yogurt,Dairy,203,56,41.44,1.6,210,Chennai
+Chennai,Hand Wash,Personal Care,74,156,74.14,1.5,230,Chennai
+Surat,Cheese,Dairy,122,160,93.25,2.6,300,Surat
+Hyderabad,Deodorant,Personal Care,104,177,155.77,2.5,340,Hyderabad
+Noida,Namkeen,Snacks,133,104,58.76,1.2,190,Noida
+Mumbai,Cheese,Dairy,53,268,92.36,2.6,300,Mumbai
+Nagpur,Toilet Cleaner,Household,58,269,85.93,1.6,220,Nagpur
+Chennai,Milk,Dairy,89,275,33.34,1.8,220,Chennai
+Surat,Energy Drink,Beverages,184,64,114.72,2.3,280,Surat
+Kolkata,Coffee,Beverages,50,160,268.4,5.5,650,Kolkata
+Coimbatore,Instant Noodles,Snacks,88,172,28.89,0.9,160,Coimbatore
+Coimbatore,Soap,Personal Care,53,275,39.42,1.0,200,Coimbatore
+Chandigarh,Pulses,Grocery,178,115,122.56,2.8,320,Chandigarh
+Lucknow,Deodorant,Personal Care,137,146,155.99,2.5,340,Lucknow
+Kochi,Cooking Oil,Grocery,48,156,162.33,4.5,500,Kochi
+Bhopal,Soap,Personal Care,48,141,36.37,1.0,200,Bhopal
+Patna,Sugar,Grocery,28,148,49.73,2.0,300,Patna
+Visakhapatnam,Yogurt,Dairy,55,264,38.86,1.6,210,Visakhapatnam
+Chennai,Chips,Snacks,163,150,19.49,0.6,140,Chennai
+Coimbatore,Chocolate,Snacks,228,62,43.19,1.0,170,Coimbatore
+Chandigarh,Milk,Dairy,285,109,33.16,1.8,220,Chandigarh
+Vijayawada,Deodorant,Personal Care,172,102,143.41,2.5,340,Vijayawada
+Raipur,Energy Drink,Beverages,51,189,106.59,2.3,280,Raipur
+Kochi,Tea,Grocery,226,85,179.33,3.0,450,Kochi
+Visakhapatnam,Cheese,Dairy,102,96,91.37,2.6,300,Visakhapatnam
+Indore,Instant Noodles,Snacks,31,200,29,0.9,160,Indore
+Coimbatore,Paneer,Dairy,71,155,77.32,2.4,290,Coimbatore
+Hyderabad,Butter,Dairy,296,86,57.55,2.1,260,Hyderabad
+Raipur,Chocolate,Snacks,174,152,43.45,1.0,170,Raipur
+Kolkata,Pulses,Grocery,89,155,122.98,2.8,320,Kolkata
+Vijayawada,Sugar,Grocery,151,154,50.01,2.0,300,Vijayawada
+Nagpur,Salt,Grocery,85,160,22.77,0.7,150,Nagpur
+Visakhapatnam,Toothpaste,Personal Care,50,243,91.39,1.7,250,Visakhapatnam
+Bhopal,Coffee,Beverages,166,95,283.34,5.5,650,Bhopal
+Chandigarh,Deodorant,Personal Care,162,156,147.25,2.5,340,Chandigarh
+Noida,Pulses,Grocery,130,120,117.19,2.8,320,Noida
+Chennai,Deodorant,Personal Care,128,148,147.24,2.5,340,Chennai
+Visakhapatnam,Rice,Grocery,205,59,65.24,2.5,350,Visakhapatnam
+Nagpur,Soft Drink,Beverages,64,157,46.71,1.5,220,Nagpur
+Jaipur,Juice,Beverages,76,279,96.93,2.0,260,Jaipur
+Surat,Chocolate,Snacks,157,91,45.76,1.0,170,Surat
+Indore,Juice,Beverages,103,107,92.76,2.0,260,Indore
+Bangalore,Chips,Snacks,109,124,19.56,0.6,140,Bangalore
+Pune,Biscuits,Snacks,232,83,25.01,0.8,150,Pune
+Noida,Dish Wash,Household,31,248,67.14,1.4,200,Noida
+Ahmedabad,Namkeen,Snacks,53,181,61.45,1.2,190,Ahmedabad
+Indore,Biscuits,Snacks,182,64,23.94,0.8,150,Indore
+Ranchi,Dish Wash,Household,89,149,67.17,1.4,200,Ranchi
+Chennai,Eggs,Dairy,25,218,5.92,0.5,180,Chennai
+Vijayawada,Dish Wash,Household,233,81,66.09,1.4,200,Vijayawada
+Jaipur,Namkeen,Snacks,142,169,61.5,1.2,190,Jaipur
+Delhi,Detergent,Household,42,245,123.82,2.9,310,Delhi
+Raipur,Toilet Cleaner,Household,285,81,83.02,1.6,220,Raipur
+Ranchi,Cooking Oil,Grocery,189,110,160.42,4.5,500,Ranchi
+Kochi,Milk,Dairy,238,78,30.48,1.8,220,Kochi
+Pune,Butter,Dairy,251,58,60.71,2.1,260,Pune
+Noida,Milk,Dairy,155,141,32.57,1.8,220,Noida
+Indore,Energy Drink,Beverages,34,206,106.46,2.3,280,Indore
+Noida,Sugar,Grocery,75,228,49.1,2.0,300,Noida
+Ahmedabad,Eggs,Dairy,155,104,5.93,0.5,180,Ahmedabad
+Bhopal,Pulses,Grocery,191,105,114.02,2.8,320,Bhopal
+Indore,Deodorant,Personal Care,175,115,147.96,2.5,340,Indore
+Visakhapatnam,Deodorant,Personal Care,260,65,153.3,2.5,340,Visakhapatnam
+Kolkata,Yogurt,Dairy,284,91,39.61,1.6,210,Kolkata
+Kolkata,Soap,Personal Care,44,247,38.63,1.0,200,Kolkata
+Raipur,Dish Wash,Household,58,243,65.31,1.4,200,Raipur
+Hyderabad,Juice,Beverages,233,105,97.71,2.0,260,Hyderabad
+Surat,Hand Wash,Personal Care,299,106,74.57,1.5,230,Surat
+Pune,Yogurt,Dairy,223,60,39.14,1.6,210,Pune
+Guwahati,Hand Wash,Personal Care,132,101,77.39,1.5,230,Guwahati
+Delhi,Deodorant,Personal Care,237,75,144.71,2.5,340,Delhi
+Coimbatore,Toothpaste,Personal Care,78,246,98.67,1.7,250,Coimbatore
+Ranchi,Biscuits,Snacks,306,101,24.36,0.8,150,Ranchi
+Hyderabad,Dish Wash,Household,74,196,62.89,1.4,200,Hyderabad
+Ranchi,Yogurt,Dairy,192,81,41.67,1.6,210,Ranchi
+Bangalore,Cheese,Dairy,79,275,94.39,2.6,300,Bangalore
+Kochi,Toothpaste,Personal Care,154,144,98.14,1.7,250,Kochi
+Indore,Cheese,Dairy,80,255,87.83,2.6,300,Indore
+Delhi,Instant Noodles,Snacks,125,156,29.95,0.9,160,Delhi
+Delhi,Soft Drink,Beverages,199,86,43.81,1.5,220,Delhi
+Ahmedabad,Energy Drink,Beverages,100,107,106.16,2.3,280,Ahmedabad
+Lucknow,Biscuits,Snacks,47,156,24.79,0.8,150,Lucknow
+Ahmedabad,Soap,Personal Care,286,57,36.89,1.0,200,Ahmedabad
+Chandigarh,Butter,Dairy,179,92,60.07,2.1,260,Chandigarh
+Bhopal,Butter,Dairy,181,95,56.83,2.1,260,Bhopal
+Lucknow,Detergent,Household,317,119,133.9,2.9,310,Lucknow
+Delhi,Paneer,Dairy,54,251,79.89,2.4,290,Delhi
+Lucknow,Energy Drink,Beverages,176,141,112.47,2.3,280,Lucknow
+Kochi,Toilet Cleaner,Household,88,146,88.46,1.6,220,Kochi
+Bhopal,Shampoo,Personal Care,93,100,213,3.2,420,Bhopal
+Chennai,Detergent,Household,226,56,126.88,2.9,310,Chennai
+Ahmedabad,Pulses,Grocery,263,93,123.13,2.8,320,Ahmedabad
+Chandigarh,Soft Drink,Beverages,80,144,46.12,1.5,220,Chandigarh
+Vijayawada,Milk,Dairy,28,150,32.81,1.8,220,Vijayawada
+Delhi,Pulses,Grocery,39,201,115.51,2.8,320,Delhi
+Guwahati,Cooking Oil,Grocery,117,149,168.29,4.5,500,Guwahati
+Jaipur,Salt,Grocery,167,104,22.61,0.7,150,Jaipur
+Mumbai,Juice,Beverages,23,219,95.72,2.0,260,Mumbai
+Lucknow,Butter,Dairy,115,99,58.53,2.1,260,Lucknow
+Patna,Coffee,Beverages,58,170,288.29,5.5,650,Patna
+Bhopal,Chocolate,Snacks,64,276,44.68,1.0,170,Bhopal
+Jaipur,Wheat Flour,Grocery,172,133,52.32,2.2,280,Jaipur
+Chandigarh,Instant Noodles,Snacks,207,105,31.38,0.9,160,Chandigarh
+Patna,Dish Wash,Household,219,105,62.89,1.4,200,Patna
+Nagpur,Hand Wash,Personal Care,317,111,74.74,1.5,230,Nagpur
+Raipur,Shampoo,Personal Care,262,81,216.95,3.2,420,Raipur
+Visakhapatnam,Soft Drink,Beverages,242,109,45.31,1.5,220,Visakhapatnam
+Guwahati,Butter,Dairy,187,113,60.04,2.1,260,Guwahati
+Mumbai,Paneer,Dairy,65,206,78.72,2.4,290,Mumbai
+Surat,Biscuits,Snacks,182,116,26.12,0.8,150,Surat
+Visakhapatnam,Coffee,Beverages,142,152,281.54,5.5,650,Visakhapatnam
+Delhi,Biscuits,Snacks,305,107,25.73,0.8,150,Delhi
+Visakhapatnam,Juice,Beverages,71,202,93.16,2.0,260,Visakhapatnam
+Bhopal,Milk,Dairy,315,94,31.76,1.8,220,Bhopal
+Raipur,Soap,Personal Care,270,108,37.13,1.0,200,Raipur
+Noida,Coffee,Beverages,44,220,269.35,5.5,650,Noida
+Indore,Namkeen,Snacks,113,114,58.3,1.2,190,Indore
+Coimbatore,Soft Drink,Beverages,165,157,45.44,1.5,220,Coimbatore
+Bangalore,Instant Noodles,Snacks,57,198,29.58,0.9,160,Bangalore
+Kolkata,Rice,Grocery,158,106,63.53,2.5,350,Kolkata
+Vijayawada,Soap,Personal Care,212,112,36.49,1.0,200,Vijayawada
+Hyderabad,Shampoo,Personal Care,300,111,208.75,3.2,420,Hyderabad
+Mumbai,Sugar,Grocery,302,64,49.55,2.0,300,Mumbai
+Lucknow,Paneer,Dairy,26,178,77.19,2.4,290,Lucknow
+Bhopal,Juice,Beverages,51,170,95.55,2.0,260,Bhopal
+Chandigarh,Toothpaste,Personal Care,169,118,97.62,1.7,250,Chandigarh
+Lucknow,Cheese,Dairy,256,104,88.25,2.6,300,Lucknow
+Surat,Sugar,Grocery,102,116,48.6,2.0,300,Surat
+Noida,Deodorant,Personal Care,40,201,145.11,2.5,340,Noida
+Visakhapatnam,Salt,Grocery,72,255,22.42,0.7,150,Visakhapatnam
+Coimbatore,Juice,Beverages,49,213,96.97,2.0,260,Coimbatore
+Ranchi,Detergent,Household,198,79,135.51,2.9,310,Ranchi
+Patna,Shampoo,Personal Care,115,144,201.91,3.2,420,Patna
+Delhi,Hand Wash,Personal Care,54,176,71.79,1.5,230,Delhi
+Mumbai,Chocolate,Snacks,253,106,43.31,1.0,170,Mumbai
+Ranchi,Juice,Beverages,141,124,95,2.0,260,Ranchi
+Coimbatore,Cheese,Dairy,25,250,92.11,2.6,300,Coimbatore
+Surat,Soft Drink,Beverages,31,198,47.08,1.5,220,Surat
+Hyderabad,Namkeen,Snacks,124,163,57.24,1.2,190,Hyderabad
+Noida,Salt,Grocery,145,171,22.69,0.7,150,Noida
+Visakhapatnam,Paneer,Dairy,284,92,78.57,2.4,290,Visakhapatnam
+Bangalore,Detergent,Household,62,245,132.52,2.9,310,Bangalore
+Kolkata,Deodorant,Personal Care,320,54,149.32,2.5,340,Kolkata
+Ahmedabad,Soft Drink,Beverages,209,101,46.64,1.5,220,Ahmedabad
+Chandigarh,Sugar,Grocery,86,232,48.59,2.0,300,Chandigarh
+Coimbatore,Hand Wash,Personal Care,193,76,73.25,1.5,230,Coimbatore
+Chennai,Toilet Cleaner,Household,292,112,81.78,1.6,220,Chennai
+Indore,Rice,Grocery,142,101,63.21,2.5,350,Indore
+Bangalore,Hand Wash,Personal Care,83,214,75.07,1.5,230,Bangalore
+Noida,Eggs,Dairy,300,81,5.97,0.5,180,Noida
+Chennai,Butter,Dairy,85,174,60.11,2.1,260,Chennai
+Chandigarh,Energy Drink,Beverages,124,90,107.61,2.3,280,Chandigarh
+Kolkata,Instant Noodles,Snacks,164,174,29.97,0.9,160,Kolkata
+Chennai,Cheese,Dairy,151,134,88.49,2.6,300,Chennai
+Indore,Butter,Dairy,262,74,60.79,2.1,260,Indore
+Delhi,Shampoo,Personal Care,239,102,200.42,3.2,420,Delhi
+Raipur,Paneer,Dairy,138,139,83.91,2.4,290,Raipur
+Patna,Tea,Grocery,189,66,180.04,3.0,450,Patna
+Bhopal,Energy Drink,Beverages,76,165,110.29,2.3,280,Bhopal
+Kochi,Rice,Grocery,108,142,67.41,2.5,350,Kochi
+Chennai,Wheat Flour,Grocery,247,93,55.68,2.2,280,Chennai
+Lucknow,Hand Wash,Personal Care,62,276,74.1,1.5,230,Lucknow
+Ahmedabad,Hand Wash,Personal Care,152,159,71.52,1.5,230,Ahmedabad
+Patna,Deodorant,Personal Care,238,61,149.01,2.5,340,Patna
+Bangalore,Namkeen,Snacks,180,102,59.66,1.2,190,Bangalore
+Hyderabad,Sugar,Grocery,194,87,47.32,2.0,300,Hyderabad
+Chandigarh,Tea,Grocery,87,245,181.19,3.0,450,Chandigarh
+Mumbai,Salt,Grocery,30,237,22.26,0.7,150,Mumbai
+Bhopal,Tea,Grocery,79,205,179.27,3.0,450,Bhopal
+Guwahati,Rice,Grocery,253,119,62.78,2.5,350,Guwahati
+Patna,Eggs,Dairy,122,148,6.21,0.5,180,Patna
+Coimbatore,Cooking Oil,Grocery,68,231,166.23,4.5,500,Coimbatore
+Hyderabad,Instant Noodles,Snacks,140,125,28.52,0.9,160,Hyderabad
+Guwahati,Namkeen,Snacks,96,167,61.47,1.2,190,Guwahati
+Kolkata,Namkeen,Snacks,65,196,60.82,1.2,190,Kolkata
+Raipur,Namkeen,Snacks,177,107,60.77,1.2,190,Raipur
+Patna,Hand Wash,Personal Care,59,252,71.5,1.5,230,Patna
+Jaipur,Chips,Snacks,31,215,19.65,0.6,140,Jaipur
+Chandigarh,Salt,Grocery,36,278,22.83,0.7,150,Chandigarh
+Jaipur,Yogurt,Dairy,124,111,39.03,1.6,210,Jaipur
+Kolkata,Chips,Snacks,209,109,20.93,0.6,140,Kolkata
+Chennai,Namkeen,Snacks,70,233,57.54,1.2,190,Chennai
+Lucknow,Rice,Grocery,317,65,64.71,2.5,350,Lucknow
+Guwahati,Chips,Snacks,123,164,19.76,0.6,140,Guwahati
+Patna,Milk,Dairy,49,260,30.48,1.8,220,Patna
+Surat,Coffee,Beverages,98,171,289.07,5.5,650,Surat
+Bangalore,Tea,Grocery,24,217,188.93,3.0,450,Bangalore
+Bangalore,Cooking Oil,Grocery,88,174,163.16,4.5,500,Bangalore
+Jaipur,Deodorant,Personal Care,179,159,148.79,2.5,340,Jaipur
+Raipur,Chips,Snacks,73,165,20.67,0.6,140,Raipur
+Surat,Eggs,Dairy,188,97,5.83,0.5,180,Surat
+Kochi,Coffee,Beverages,205,97,281.25,5.5,650,Kochi
+Vijayawada,Butter,Dairy,228,65,60.6,2.1,260,Vijayawada
+Kochi,Wheat Flour,Grocery,117,172,55.77,2.2,280,Kochi
+Ahmedabad,Coffee,Beverages,46,157,289.23,5.5,650,Ahmedabad
+Indore,Pulses,Grocery,117,119,117.94,2.8,320,Indore
+Chennai,Chocolate,Snacks,90,125,46.61,1.0,170,Chennai
+Chennai,Tea,Grocery,122,112,172.98,3.0,450,Chennai
+Hyderabad,Tea,Grocery,65,200,181.6,3.0,450,Hyderabad
+Hyderabad,Salt,Grocery,193,66,22.53,0.7,150,Hyderabad
+Nagpur,Cooking Oil,Grocery,98,150,164.15,4.5,500,Nagpur
